@@ -112,10 +112,12 @@ You'll have to learn this on your own. Please refer to the github guides in the 
     * Work1 Assigned uses the [student_gpa_java](https://github.com/COE11-USTP-CEA/student_gpa_java) repo
     * This is a 0 or 10 kind of assignment.
 
-### Class 2 (Dec 12-16)
+### Class 2 (Dec 12-16) 
 
 1. Introduce [Maven](https://maven.apache.org/) so we can download Java libraries from the internet
 2. Introduce [testing using TestNG](http://testng.org/doc/index.html) which we get via Maven
+
+NOTE: Due to Lab 701 not having internet, these lessons are moved to Jan 2017
 
 #### Homework
 
@@ -124,6 +126,22 @@ You'll have to learn this on your own. Please refer to the github guides in the 
 * Add test to [student_gpa_java](https://github.com/COE11-USTP-CEA/student_gpa_java) repo. 
     * This work is scored on a 0-10 scale. 
     * Score is based on results of test and timeliness of submission.
+
+
+### Class 3 (Jan 9-13 2017)
+
+@see Class 2 (Dec12-16)
+
+### Class 4 (Jan 16-20)
+
+1. Midterms
+
+#### Coverage
+
+* Command line and Git basics
+* Java Language basics
+* Inheritance, Overloading, & Overriding
+
 
 ## Pairing Tips
 
