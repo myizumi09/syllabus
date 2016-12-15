@@ -21,7 +21,7 @@ Computers are provided in the lab, though you are encouraged to bring a laptop f
 
 These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts. 
 
-Refer to the [beginner material](#beginner-material) for links. 
+Refer to the [Beginner material](#Beginner-material) for links. 
 
 Refer to [Workflow with Github](#workflow-with-github) if you need help in using git or GitHub.
 
@@ -155,11 +155,11 @@ NOTE: Due to Lab 701 not having internet, these lessons are moved to Jan 2017
 
 ### Required Reading
 
-* To follow
+* Object-Oriented Design by Peter Coad & Edward Yourdon [link](https://www.amazon.com/dp/0136300707/?tag=stackoverfl08-20) - if available else we'll have to make do with online resources
 
 ### Recommended Reading
 
-* To follow
+* [University of Helsinki's MOOC for OOP](http://mooc.fi/courses/2013/programming-part-1/)
 
 #### Other Lists
 
@@ -172,9 +172,15 @@ NOTE: Due to Lab 701 not having internet, these lessons are moved to Jan 2017
 * alternative to sharing snippets: [hackpad](https://hackpad.com/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
 * [Markdown Online Preview](http://markdownlivepreview.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Apache Maven](https://maven.apache.org/)
 * Google
 
-### beginner Material
+### Test Library
+
+* [TestNg](http://testng.org/doc/index.html)
+
+### Beginner Material
 
 * [Command line (DOS) Tutorial](http://www.c3scripts.com/tutorials/msdos/)
 * [Java Language Basics](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
