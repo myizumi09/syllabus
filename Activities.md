@@ -4,5 +4,5 @@
 
 Set appointed with students having problems with their github account on 12-13-2016 to meet at Figaro Towers during lunch hour.
 
-No students made it to the meeting.
-
+1 student made it to the meeting.
+* Gevero
