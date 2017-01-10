@@ -133,10 +133,10 @@ NOTE: Due to Lab 701 not having internet, these lessons are moved to Jan 2017
 '''Note:''' Due to the continued lack of internet access to the lab. I'm forced to modify the course. I cannot teach modern Java 
 in these conditions but I guess we'll have to make do.
 
-1. Code up the Selection Problem Excerise 
+1. Code up the Selection Problem Excercise
     * Introduce the concept of a Constructor method
 2. Create a repo for the Selection Problem with Github - this is graded - Due Friday, Jan 13
-    * Use work2-Selection-Problem-[username] format for naming the repo
+    * Use work2-Selection-Problem-[github username] format for naming the repo
     * Code in repo must compile without errors
 
 
