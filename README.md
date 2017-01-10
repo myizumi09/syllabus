@@ -130,7 +130,7 @@ NOTE: Due to Lab 701 not having internet, these lessons are moved to Jan 2017
 
 ### Class 3 (Jan 9-13 2017)
 
-'Note:' Due to the continued lack of internet access to the lab. I'm forced to modify the course. I cannot teach modern Java 
+'''Note:''' Due to the continued lack of internet access to the lab. I'm forced to modify the course. I cannot teach modern Java 
 in these conditions but I guess we'll have to make do.
 
 1. Code up the Selection Problem Excerise 
