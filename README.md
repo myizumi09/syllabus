@@ -136,7 +136,9 @@ in these conditions but I guess we'll have to make do.
 1. Code up the Selection Problem Excercise
     * Introduce the concept of a Constructor method
     * Code in repo must compile without errors; This is an automated process.
-2. Create a repo for the Selection Problem with Github - this is graded - Due Friday, Jan 13
+
+#### Homework
+1. Create a repo for the Selection Problem with Github - this is graded - Due Friday, Jan 13
     * Submit your working code as assignment - https://classroom.github.com/assignment-invitations/d6eec4a648d4eb01a3d26397160fdcfa
 
     Note: You need to accept the assignment to gain access to an EMPTY repo. You'll need to then PUSH your repo into this new empty repo.
@@ -146,7 +148,17 @@ in these conditions but I guess we'll have to make do.
 
 ### Class 4 (Jan 16-20)
 
-1. Midterms
+Introduce User Input to students (ie. Readline)
+
+1. Show example for accepting input from the keyboard
+2. Include basic try-catch example
+
+#### Lab
+1. Expand on the Selection problem to input a "Search" for items
+
+### Class 5 (Jan 23-27)
+
+TBA
 
 #### Coverage
 
