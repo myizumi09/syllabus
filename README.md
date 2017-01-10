@@ -135,10 +135,14 @@ in these conditions but I guess we'll have to make do.
 
 1. Code up the Selection Problem Excercise
     * Introduce the concept of a Constructor method
+    * Code in repo must compile without errors; This is an automated process.
 2. Create a repo for the Selection Problem with Github - this is graded - Due Friday, Jan 13
-    * Use work2-Selection-Problem-[github username] format for naming the repo
-    * Code in repo must compile without errors
+    * Submit your working code as assignment - https://classroom.github.com/assignment-invitations/d6eec4a648d4eb01a3d26397160fdcfa
 
+    Note: You need to accept the assignment to gain access to an EMPTY repo. You'll need to then PUSH your repo into this new empty repo.
+    Refer to this documentation about git remotes.
+        * https://help.github.com/articles/adding-a-remote/
+        * https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 
 ### Class 4 (Jan 16-20)
 
