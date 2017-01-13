@@ -143,22 +143,30 @@ in these conditions but I guess we'll have to make do.
 
     Note: You need to accept the assignment to gain access to an EMPTY repo. You'll need to then PUSH your repo into this new empty repo.
     Refer to this documentation about git remotes.
-        * https://help.github.com/articles/adding-a-remote/
-        * https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+    
+    * https://help.github.com/articles/adding-a-remote/
+    * https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 
 ### Class 4 (Jan 16-20)
 
 Introduce User Input to students (ie. Readline)
 
-1. Show example for accepting input from the keyboard
-2. Include basic try-catch example
+1. Show example for accepting input from the keyboard. 
+2. Reading and writing files
+3. Include try-catch structure
 
 #### Lab
 1. Expand on the Selection problem to input a "Search" for items
+2. File management exercise - reading/writing 
 
 ### Class 5 (Jan 23-27)
 
 TBA
+
+
+### Midterm Coverage
+
+Exam dates: TBA
 
 #### Coverage
 
