@@ -226,10 +226,6 @@ Exam dates: Jan 31 6:00PM - Lab
 * [Apache Maven](https://maven.apache.org/)
 * Google
 
-### Test Library
-
-* [TestNg](http://testng.org/doc/index.html)
-
 ### Beginner Material
 
 * [Command line (DOS) Tutorial](http://www.c3scripts.com/tutorials/msdos/)
@@ -248,7 +244,8 @@ Exam dates: Jan 31 6:00PM - Lab
 
 ## Grading
 
-* Labwork – 100%
+* Assignment/Labwork – 40%
+* Periodical Exam - 60% 
 
 ## Statements on Plagiarism
 
