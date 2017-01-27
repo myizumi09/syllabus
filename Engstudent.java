@@ -83,6 +83,7 @@ Bonus points for:
 ## Course Outline
 
 ### Class 1 (Dec 5-9)
+Dinmark Taguic
 
 1. Setup
     * How many people are comfortable with Git/GitHub?
